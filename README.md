@@ -3,4 +3,4 @@
 You can add your own prefferences to suite your design.</p>
 
 <h3>AUTHOR</h3>
-<p>Kimae Ngowa: <a href="kimaekahindi@yahoo.com">kimaekahindi@yahoo.com</p>
+<p>Kimae Ngowa: <a href="mailto:kimaekahindi@yahoo.com">kimaekahindi@yahoo.com</a></p>
