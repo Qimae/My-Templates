@@ -1,0 +1,29 @@
+#Signup {
+  width: 50%;
+  margin: auto;
+  padding-top: 2rem;
+  margin-top: 6rem;
+  box-shadow: rgba(9, 130, 205, 0.35) 0px 5px 15px;
+  padding: 3rem;
+}
+
+#Login {
+  width: 50%;
+  margin: auto;
+  margin-top: 6rem;
+  padding-top: 2rem;
+  box-shadow: rgba(9, 130, 205, 0.35) 0px 5px 15px;
+  padding: 3rem;
+}
+
+@media screen and (max-width: 1026px) {
+
+  #Signup,
+  #Login {
+    width: 100%;
+    margin-top: 0;
+    box-shadow: none;
+
+  }
+
+}
